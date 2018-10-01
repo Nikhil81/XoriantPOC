@@ -1,0 +1,22 @@
+============================******************************==========================================
+The application contains two projects
+1) Angular the UI
+2) Asp.net core the basck end
+3) To save the data , local db is used
+4) There is also a project attached XoriantPrototypeWithLogin which have token based authentication but that require atention before running.
+
+==========================********************************==============================
+-------------------------------To Run : ----------------------------
+1) Angular project
+open comand prompt 
+go to project location e,g D:Project\Xoriant_POC\UI\xoriantsoftwares and type ng serve
+angular app will start @ 4200 port i,e http://localhost:4200/
+
+2) Web api
+Open the project in vs2017
+and run on any browser a bloack will appear make sure the port is 61276 i.e  http://localhost:61276/
+the app is configure to run on this port only if yur port is diffrent:-
+Change in angular project's user.service.ts file
+
+e.g change this SERVER_URL = 'http://localhost:61276/api/Account'; to your port number  'http://localhost:{portNumber}/api/Account';
+

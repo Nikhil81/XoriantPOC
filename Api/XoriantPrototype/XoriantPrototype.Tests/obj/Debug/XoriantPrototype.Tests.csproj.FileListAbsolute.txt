@@ -1,0 +1,6 @@
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\bin\Debug\XoriantPrototype.Tests.dll
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\bin\Debug\XoriantPrototype.Tests.pdb
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\obj\Debug\XoriantPrototype.Tests.csprojAssemblyReference.cache
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\obj\Debug\XoriantPrototype.Tests.csproj.CoreCompileInputs.cache
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\obj\Debug\XoriantPrototype.Tests.dll
+D:\Nikhil\Xoriant_POC\Api\XoriantPrototype\XoriantPrototype.Tests\obj\Debug\XoriantPrototype.Tests.pdb
